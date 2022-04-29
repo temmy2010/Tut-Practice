@@ -1,0 +1,17 @@
+.container{
+    
+    border: 1px solid red;
+    border-radius: 8px;
+    border-right: 50%;
+
+}
+
+.form{
+    margin: 50px;
+    margin-right: 500px;
+}
+
+.form2{
+    margin: 50px;
+    margin-right: 500px;
+}
